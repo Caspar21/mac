@@ -2,7 +2,6 @@
 // Project: MAC
 // Function: send packet with crc32 in the end and receive flow 1 and flow data
 // Author: Caspar Chen
-// E-mail: caspar_chen@pegatroncorp.com
 // Date:20200214
 
 `timescale 1ns/1ns
